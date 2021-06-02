@@ -164,16 +164,15 @@ for pdb in filter(lambda x: x.endswith('.pdb'), os.listdir(args.input_files)):
         # Otherwise we will have the "proximal_residues" and "proximal_ligands" information
         # Decide output directory.
         main_heme = hemes[main_heme_chain]
-        if len(main_chains) == 1:
+        if assembly == 'MONOMERIC':
+            symmetry = 'SYMMETRIC'
+            outdir = main_heme[0] + '/' + pdb[:-4]
+            #print('SYMMETRIC')
+        else:
             if no_remark350:
                 symmetry = 'VOID'
                 outdir = main_heme[0] + '_noREMARK350/' + pdb[:-4]
-            else:
-                symmetry = 'SYMMETRIC'
-                outdir = main_heme[0] + '/' + pdb[:-4]
-            #print('SYMMETRIC')
-        else:
-            if len(main_chains) == len(hemes):
+            elif len(main_chains) == len(hemes):
                 outdir = main_heme[0] + '_symm/' + pdb[:-4]
                 symmetry = 'SYMMETRIC'
                 #print('SYMMETRIC')
