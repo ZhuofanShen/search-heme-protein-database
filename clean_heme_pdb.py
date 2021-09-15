@@ -130,7 +130,7 @@ for pdb in filter(lambda x: x.endswith('.pdb'), os.listdir(args.input_files)):
                         else:
                             proximal_ligands[line[13:16] + line[17] + line[18:22].strip(' ')] = \
                                     (line[13:16], line[17], line[18:22].strip(' '), line[24:28].strip(' '), 'VOID')
-                            cmd.remove('resi ' + line[18:22].strip(' ') + ' & resn ' + line[13:16])
+                            # cmd.remove('resi ' + line[18:22].strip(' ') + ' & resn ' + line[13:16])
                     elif line.startswith('REMARK 620 N                    '):
                         in_heme_remark_620 = False
                 elif line.startswith('LINK'): # and line[17:20] == heme[0] and not line.startswith('LINK        FE')
@@ -164,7 +164,7 @@ for pdb in filter(lambda x: x.endswith('.pdb'), os.listdir(args.input_files)):
         # Otherwise we will have the "proximal_residues" and "proximal_ligands" information
         # Decide output directory.
         main_heme = hemes[main_heme_chain]
-        if assembly == 'MONOMERIC':
+        if assembly == 'MONOMERIC': # if remark300, there must be remark350
             symmetry = 'SYMMETRIC'
             outdir = main_heme[0] + '/' + pdb[:-4]
             #print('SYMMETRIC')
@@ -230,7 +230,7 @@ for pdb in filter(lambda x: x.endswith('.pdb'), os.listdir(args.input_files)):
         cmd.delete('*')
         # write link and ssbond lines
         if len(link_lines) > 0 or len(ssbond_lines) > 0:
-            time.sleep(3)
+            time.sleep(5)
             with open(outdir + '/' + pdb[:-4] + '_clean.pdb', 'r+') as p_clean:
                 clean_lines = p_clean.readlines()
                 p_clean.seek(0)
