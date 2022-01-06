@@ -1,0 +1,308 @@
+ATOM      1  N   CYX A   1      16.481 -27.756   8.139  1.00  7.87           N  
+ANISOU    1  N   CYX A   1     1087   1140    761   -196    370   -155       N  
+ATOM      2  CA  CYX A   1      17.912 -27.585   8.384  1.00  8.51           C  
+ANISOU    2  CA  CYX A   1     1066   1216    950   -216    408   -286       C  
+ATOM      3  C   CYX A   1      18.671 -28.815   7.849  1.00  9.62           C  
+ANISOU    3  C   CYX A   1     1149   1276   1228   -222    530   -403       C  
+ATOM      4  O   CYX A   1      19.674 -28.705   7.127  1.00 11.09           O  
+ANISOU    4  O   CYX A   1     1243   1481   1487   -378    682   -620       O  
+ATOM      5  CB  CYX A   1      18.249 -27.473   9.872  1.00  8.81           C  
+ANISOU    5  CB  CYX A   1     1024   1227   1095   -141    351   -158       C  
+ATOM      6  SG  CYX A   1      17.305 -26.353  10.953  1.00  8.38           S  
+ANISOU    6  SG  CYX A   1      962   1430    789   -185    253   -250       S  
+ATOM      7  H   CYX A   1      15.995 -27.705   8.850  1.00  8.19           H  
+ANISOU    7  H   CYX A   1     1110   1165    837   -230    396   -206       H  
+ATOM      8  HA  CYX A   1      18.237 -26.785   7.921  1.00  8.66           H  
+ANISOU    8  HA  CYX A   1     1069   1206   1013   -196    411   -256       H  
+ATOM      9  HB2 CYX A   1      18.149 -28.355  10.262  1.00  8.50           H  
+ANISOU    9  HB2 CYX A   1     1030   1217    983   -192    373   -241       H  
+ATOM     10  HB3 CYX A   1      19.181 -27.215   9.939  1.00  8.56           H  
+ANISOU   10  HB3 CYX A   1     1035   1233    985   -188    373   -246       H  
+ATOM     11  N   CYX A   4      18.855 -29.314   3.972  1.00 10.28           N  
+ANISOU   11  N   CYX A   4     1083   1599   1223   -462    523   -810       N  
+ATOM     12  CA  CYX A   4      19.838 -28.483   3.309  1.00  8.93           C  
+ANISOU   12  CA  CYX A   4      938   1378   1076   -294    350   -638       C  
+ATOM     13  C   CYX A   4      21.257 -28.968   3.606  1.00  8.56           C  
+ANISOU   13  C   CYX A   4     1039   1238    975   -222    364   -554       C  
+ATOM     14  O   CYX A   4      22.073 -29.095   2.693  1.00  9.01           O  
+ANISOU   14  O   CYX A   4     1067   1272   1081   -179    473   -478       O  
+ATOM     15  CB  CYX A   4      19.653 -27.024   3.665  1.00  8.51           C  
+ANISOU   15  CB  CYX A   4      894   1407    932   -174    255   -546       C  
+ATOM     16  SG  CYX A   4      20.820 -26.059   2.672  1.00  7.19           S  
+ANISOU   16  SG  CYX A   4      846   1297    587    -25    103   -369       S  
+ATOM     17  H   CYX A   4      18.425 -28.938   4.615  1.00 10.44           H  
+ANISOU   17  H   CYX A   4     1097   1589   1280   -467    533   -807       H  
+ATOM     18  HA  CYX A   4      19.704 -28.552   2.340  1.00  9.03           H  
+ANISOU   18  HA  CYX A   4      972   1386   1070   -285    368   -634       H  
+ATOM     19  HB2 CYX A   4      18.749 -26.741   3.456  1.00  8.49           H  
+ANISOU   19  HB2 CYX A   4      880   1358    988   -221    289   -577       H  
+ATOM     20  HB3 CYX A   4      19.847 -26.902   4.606  1.00  8.51           H  
+ANISOU   20  HB3 CYX A   4      901   1359    971   -226    287   -581       H  
+ATOM     21  N   HIS A   5      21.564 -29.248   4.869  1.00  8.55           N  
+ANISOU   21  N   HIS A   5     1014   1137   1096   -162    445   -466       N  
+ATOM     22  CA  HIS A   5      22.896 -29.731   5.203  1.00  8.59           C  
+ANISOU   22  CA  HIS A   5     1051   1014   1197   -141    406   -438       C  
+ATOM     23  C   HIS A   5      23.222 -31.020   4.423  1.00  9.95           C  
+ANISOU   23  C   HIS A   5     1217   1055   1508   -111    530   -458       C  
+ATOM     24  O   HIS A   5      24.338 -31.199   3.937  1.00 10.20           O  
+ANISOU   24  O   HIS A   5     1115   1194   1564   -112    539   -546       O  
+ATOM     25  CB  HIS A   5      23.043 -29.973   6.691  1.00  8.89           C  
+ANISOU   25  CB  HIS A   5     1129    965   1281    -82    420   -306       C  
+ATOM     26  CG  HIS A   5      22.967 -28.702   7.495  1.00  7.64           C  
+ANISOU   26  CG  HIS A   5      916   1043    940     10    228   -212       C  
+ATOM     27  CD2 HIS A   5      23.215 -27.408   7.170  1.00  6.58           C  
+ANISOU   27  CD2 HIS A   5      813    983    702     14    149    -99       C  
+ATOM     28  ND1 HIS A   5      22.586 -28.691   8.816  1.00  8.05           N  
+ANISOU   28  ND1 HIS A   5     1171    941    946    -30    303    -15       N  
+ATOM     29  CE1 HIS A   5      22.607 -27.430   9.246  1.00  7.22           C  
+ANISOU   29  CE1 HIS A   5     1032   1002    707      7    176    -77       C  
+ATOM     30  NE2 HIS A   5      22.984 -26.616   8.276  1.00  6.16           N  
+ANISOU   30  NE2 HIS A   5      701   1015    622     36     64    -85       N  
+ATOM     31  H   HIS A   5      21.025 -29.169   5.535  1.00  8.52           H  
+ANISOU   31  H   HIS A   5     1016   1122   1098   -170    415   -479       H  
+ATOM     32  HA  HIS A   5      23.553 -29.054   4.941  1.00  8.89           H  
+ANISOU   32  HA  HIS A   5     1082   1027   1268   -127    440   -415       H  
+ATOM     33  HB2 HIS A   5      22.330 -30.560   6.989  1.00  8.55           H  
+ANISOU   33  HB2 HIS A   5     1049    998   1201   -101    381   -372       H  
+ATOM     34  HB3 HIS A   5      23.905 -30.384   6.862  1.00  8.58           H  
+ANISOU   34  HB3 HIS A   5     1058    998   1201   -114    387   -372       H  
+ATOM     35  HD1 HIS A   5      22.368 -29.380   9.284  1.00  7.63           H  
+ANISOU   35  HD1 HIS A   5     1068    937    893    -19    261    -57       H  
+ATOM     36  HD2 HIS A   5      23.488 -27.108   6.335  1.00  6.64           H  
+ANISOU   36  HD2 HIS A   5      796    989    735     14    159   -109       H  
+ATOM     37  HE1 HIS A   5      22.392 -27.171  10.111  1.00  7.10           H  
+ANISOU   37  HE1 HIS A   5      974    978    743      8    189    -74       H  
+TER   
+HETATM   38  CAA HEX A 999      27.978 -25.229  11.232  1.00  7.74           C  
+ANISOU   38  CAA HEX A 999      955   1258    726     55     -9      2       C  
+HETATM   39  CAB HEX A 999      18.088 -24.681  10.863  1.00  6.84           C  
+ANISOU   39  CAB HEX A 999      777   1329    490     51     68    -28       C  
+HETATM  113  SGB HEX A 999      17.305 -26.353  10.953  1.00  8.38           X  
+HETATM   40  CAC HEX A 999      20.614 -24.367   3.356  1.00  6.52           C  
+ANISOU   40  CAC HEX A 999      783   1206    485     42     10   -211       C  
+HETATM  114  SGC HEX A 999      20.820 -26.059   2.672  1.00  7.19           X  
+HETATM   41  CAD HEX A 999      28.168 -24.710   5.787  1.00  6.17           C  
+ANISOU   41  CAD HEX A 999      717   1049    578     33     57   -165       C  
+HETATM   42  NA  HEX A 999      24.523 -24.748   9.835  1.00  5.97           N  
+ANISOU   42  NA  HEX A 999      715   1068    485      8    -43    -80       N  
+HETATM   43  CBA HEX A 999      28.680 -23.923  11.459  1.00  8.82           C  
+ANISOU   43  CBA HEX A 999     1174   1121   1055     72     66     44       C  
+HETATM   44  CBB HEX A 999      17.527 -23.885  12.050  1.00  7.23           C  
+ANISOU   44  CBB HEX A 999      833   1452    460    112     76    -51       C  
+HETATM   45  CBC HEX A 999      19.395 -23.674   2.780  1.00  7.27           C  
+ANISOU   45  CBC HEX A 999      903   1448    409    106    -71   -171       C  
+HETATM   46  CBD HEX A 999      28.777 -23.295   5.867  1.00  6.27           C  
+ANISOU   46  CBD HEX A 999      687   1009    683     32     65   -153       C  
+HETATM   47  NB  HEX A 999      21.686 -24.615   9.779  1.00  5.51           N  
+ANISOU   47  NB  HEX A 999      711    940    440      7     38    -43       N  
+HETATM   48  CGA HEX A 999      30.130 -24.202  11.840  1.00  9.72           C  
+ANISOU   48  CGA HEX A 999      980   1828    884   -190   -132     47       C  
+HETATM   49  CGD HEX A 999      30.291 -23.287   5.633  1.00  6.21           C  
+ANISOU   49  CGD HEX A 999      693   1032    634     25    115   -231       C  
+HETATM   50  ND  HEX A 999      24.587 -24.606   7.000  1.00  5.70           N  
+ANISOU   50  ND  HEX A 999      709    926    530    -14     23   -134       N  
+HETATM   51  CHA HEX A 999      26.554 -24.714   8.465  1.00  6.51           C  
+ANISOU   51  CHA HEX A 999      688   1179    606     16     28    -86       C  
+HETATM   52  CHB HEX A 999      23.051 -24.897  11.767  1.00  6.24           C  
+ANISOU   52  CHB HEX A 999      829   1047    491     33    -26    -56       C  
+HETATM   53  CHC HEX A 999      19.741 -24.436   8.305  1.00  5.66           C  
+ANISOU   53  CHC HEX A 999      694    970    485     38     11    -90       C  
+HETATM   54  CHD HEX A 999      23.213 -24.551   4.988  1.00  5.63           C  
+ANISOU   54  CHD HEX A 999      779    942    418    -43     66   -145       C  
+HETATM   55  CMA HEX A 999      25.665 -25.274  13.373  1.00  7.87           C  
+ANISOU   55  CMA HEX A 999      875   1585    528    209     -4     41       C  
+HETATM   56  CMB HEX A 999      20.335 -25.080  13.252  1.00  6.74           C  
+ANISOU   56  CMB HEX A 999      842   1249    467     48     41     42       C  
+HETATM   57  CMC HEX A 999      18.227 -24.330   5.639  1.00  6.52           C  
+ANISOU   57  CMC HEX A 999      745   1242    491     94      6   -227       C  
+HETATM   58  CMD HEX A 999      25.896 -24.760   3.477  1.00  6.65           C  
+ANISOU   58  CMD HEX A 999      765   1197    562    -19    130   -185       C  
+HETATM   59  C1A HEX A 999      25.879 -24.792   9.683  1.00  6.48           C  
+ANISOU   59  C1A HEX A 999      782   1179    500     29      7   -125       C  
+HETATM   60  C1B HEX A 999      21.831 -24.785  11.121  1.00  5.69           C  
+ANISOU   60  C1B HEX A 999      804    932    423    -19     52    -61       C  
+HETATM   61  C1C HEX A 999      20.389 -24.421   7.098  1.00  5.56           C  
+ANISOU   61  C1C HEX A 999      723    880    508     26     67   -108       C  
+HETATM   62  C1D HEX A 999      24.423 -24.616   5.642  1.00  5.73           C  
+ANISOU   62  C1D HEX A 999      776    969    429    -36     42   -110       C  
+HETATM   63  O1A HEX A 999      31.006 -24.279  10.953  1.00  9.66           O  
+ANISOU   63  O1A HEX A 999      937   1861    870    -54    -47    193       O  
+HETATM   64  O1D HEX A 999      30.768 -22.499   4.801  1.00  7.04           O  
+ANISOU   64  O1D HEX A 999      776   1187    712     92    170    -86       O  
+HETATM   65  C2A HEX A 999      26.508 -25.028  10.980  1.00  7.30           C  
+ANISOU   65  C2A HEX A 999      843   1332    596    104      5    -76       C  
+HETATM   66  C2B HEX A 999      20.532 -24.847  11.775  1.00  6.02           C  
+ANISOU   66  C2B HEX A 999      776   1029    481    -14     66    -48       C  
+HETATM   67  C2C HEX A 999      19.723 -24.382   5.815  1.00  5.67           C  
+ANISOU   67  C2C HEX A 999      760    932    460     26      2   -157       C  
+HETATM   68  C2D HEX A 999      25.707 -24.688   4.969  1.00  5.79           C  
+ANISOU   68  C2D HEX A 999      758    971    468     -3     39   -171       C  
+HETATM   69  O2A HEX A 999      30.434 -24.437  13.043  1.00 13.64           O  
+ANISOU   69  O2A HEX A 999     1156   3196    829    -86   -204      7       O  
+HETATM   70  O2D HEX A 999      30.983 -24.105   6.324  1.00  6.61           O  
+ANISOU   70  O2D HEX A 999      721   1063    728    101     42   -120       O  
+HETATM   71  C3A HEX A 999      25.531 -25.051  11.888  1.00  7.22           C  
+ANISOU   71  C3A HEX A 999      867   1343    533    106    -38   -109       C  
+HETATM   72  C3B HEX A 999      19.600 -24.692  10.795  1.00  6.19           C  
+ANISOU   72  C3B HEX A 999      786   1085    481     16     53    -60       C  
+HETATM   73  C3C HEX A 999      20.701 -24.410   4.872  1.00  5.72           C  
+ANISOU   73  C3C HEX A 999      747    978    448     10     29   -173       C  
+HETATM   74  C3D HEX A 999      26.677 -24.690   5.967  1.00  6.17           C  
+ANISOU   74  C3D HEX A 999      744    971    630      4     53   -146       C  
+HETATM   75  C4A HEX A 999      24.288 -24.876  11.179  1.00  5.97           C  
+ANISOU   75  C4A HEX A 999      754   1070    442     38     -4    -55       C  
+HETATM   76  C4B HEX A 999      20.330 -24.562   9.548  1.00  5.59           C  
+ANISOU   76  C4B HEX A 999      789    877    457     10     58    -56       C  
+HETATM   77  C4C HEX A 999      21.969 -24.481   5.579  1.00  5.28           C  
+ANISOU   77  C4C HEX A 999      727    844    433     30     -3   -125       C  
+HETATM   78  C4D HEX A 999      25.959 -24.663   7.215  1.00  5.84           C  
+ANISOU   78  C4D HEX A 999      758    950    509    -29     18   -141       C  
+HETATM   79  NC  HEX A 999      21.754 -24.495   6.929  1.00  5.45           N  
+ANISOU   79  NC  HEX A 999      717    884    469      3     48   -100       N  
+HETATM   80 FE   HEX A 999      23.136 -24.583   8.386  1.00  5.37          FE  
+ANISOU   80 FE   HEX A 999      701    914    424     17     24    -85      FE  
+HETATM  115  NE2 HEX A 999      22.984 -26.616   8.276  1.00  6.16           X  
+HETATM   81 HAA1 HEX A 999      28.371 -25.672  10.465  1.00  7.85           H  
+ANISOU   81 HAA1 HEX A 999      960   1227    793     74     12     -8       H  
+HETATM   82 HAA2 HEX A 999      28.096 -25.794  12.010  1.00  7.80           H  
+ANISOU   82 HAA2 HEX A 999      961   1220    782     74      7      4       H  
+HETATM   83  HAB HEX A 999      17.766 -24.243  10.071  1.00  6.78           H  
+ANISOU   83  HAB HEX A 999      783   1288    503     59     64    -36       H  
+HETATM   84  HAC HEX A 999      21.373 -23.859   3.046  1.00  6.47           H  
+ANISOU   84  HAC HEX A 999      786   1197    473     49     -2   -192       H  
+HETATM   85 HAD1 HEX A 999      28.374 -25.091   4.919  1.00  6.13           H  
+ANISOU   85 HAD1 HEX A 999      701   1004    624     28     64   -169       H  
+HETATM   86 HAD2 HEX A 999      28.562 -25.268   6.475  1.00  6.16           H  
+ANISOU   86 HAD2 HEX A 999      701   1004    634     27     57   -157       H  
+HETATM   87 HBA1 HEX A 999      28.243 -23.439  12.178  1.00  8.70           H  
+ANISOU   87 HBA1 HEX A 999     1052   1304    948     11      6     30       H  
+HETATM   88 HBA2 HEX A 999      28.653 -23.393  10.647  1.00  8.77           H  
+ANISOU   88 HBA2 HEX A 999     1057   1310    964      7      0     36       H  
+HETATM   89 HBB1 HEX A 999      18.186 -23.234  12.341  1.00  7.20           H  
+ANISOU   89 HBB1 HEX A 999      828   1392    514    105     81    -36       H  
+HETATM   90 HBB2 HEX A 999      17.320 -24.476  12.792  1.00  7.17           H  
+ANISOU   90 HBB2 HEX A 999      816   1383    521     96     75    -43       H  
+HETATM   91 HBB3 HEX A 999      16.722 -23.418  11.778  1.00  7.15           H  
+ANISOU   91 HBB3 HEX A 999      820   1386    511     92     77    -42       H  
+HETATM   92 HBC1 HEX A 999      19.150 -22.928   3.350  1.00  7.11           H  
+ANISOU   92 HBC1 HEX A 999      865   1353    483     88    -44   -157       H  
+HETATM   93 HBC2 HEX A 999      18.650 -24.293   2.725  1.00  7.16           H  
+ANISOU   93 HBC2 HEX A 999      885   1362    472    112    -36   -164       H  
+HETATM   94 HBC3 HEX A 999      19.605 -23.342   1.893  1.00  7.07           H  
+ANISOU   94 HBC3 HEX A 999      862   1346    476     90    -34   -157       H  
+HETATM   95 HBD1 HEX A 999      28.595 -22.925   6.745  1.00  6.28           H  
+ANISOU   95 HBD1 HEX A 999      684   1010    689     29     73   -170       H  
+HETATM   96 HBD2 HEX A 999      28.354 -22.734   5.198  1.00  6.21           H  
+ANISOU   96 HBD2 HEX A 999      682   1005    671     32     71   -169       H  
+HETATM   97  HHA HEX A 999      27.532 -24.688   8.498  1.00  6.27           H  
+ANISOU   97  HHA HEX A 999      695   1118    569      7     20   -109       H  
+HETATM   98  HHB HEX A 999      23.033 -24.997  12.740  1.00  6.08           H  
+ANISOU   98  HHB HEX A 999      796   1015    497     22     -3    -55       H  
+HETATM   99  HHC HEX A 999      18.770 -24.344   8.282  1.00  5.55           H  
+ANISOU   99  HHC HEX A 999      696    915    497     28     35    -87       H  
+HETATM  100  HHD HEX A 999      23.235 -24.561   4.011  1.00  5.54           H  
+ANISOU  100  HHD HEX A 999      756    914    432    -24     45   -132       H  
+HETATM  101 HMA1 HEX A 999      25.257 -26.133  13.610  1.00  7.80           H  
+ANISOU  101 HMA1 HEX A 999      877   1515    569    196    -23    -18       H  
+HETATM  102 HMA2 HEX A 999      25.206 -24.554  13.853  1.00  7.78           H  
+ANISOU  102 HMA2 HEX A 999      875   1506    575    170    -25      1       H  
+HETATM  103 HMA3 HEX A 999      26.610 -25.281  13.631  1.00  7.73           H  
+ANISOU  103 HMA3 HEX A 999      870   1497    567    180    -18     -9       H  
+HETATM  104 HMB1 HEX A 999      19.603 -25.703  13.382  1.00  6.63           H  
+ANISOU  104 HMB1 HEX A 999      831   1186    503     47     41     13       H  
+HETATM  105 HMB2 HEX A 999      20.120 -24.238  13.685  1.00  6.63           H  
+ANISOU  105 HMB2 HEX A 999      818   1191    510     21     39     30       H  
+HETATM  106 HMB3 HEX A 999      21.139 -25.449  13.648  1.00  6.56           H  
+ANISOU  106 HMB3 HEX A 999      814   1174    503     29     44     16       H  
+HETATM  107 HMC1 HEX A 999      17.973 -24.895   4.892  1.00  6.30           H  
+ANISOU  107 HMC1 HEX A 999      735   1131    526     60      7   -199       H  
+HETATM  108 HMC2 HEX A 999      17.955 -23.417   5.458  1.00  6.40           H  
+ANISOU  108 HMC2 HEX A 999      739   1168    521     46      9   -213       H  
+HETATM  109 HMC3 HEX A 999      17.779 -24.648   6.437  1.00  6.34           H  
+ANISOU  109 HMC3 HEX A 999      736   1135    535     61      6   -202       H  
+HETATM  110 HMD1 HEX A 999      26.120 -25.680   3.223  1.00  6.50           H  
+ANISOU  110 HMD1 HEX A 999      767   1133    566    -29     96   -162       H  
+HETATM  111 HMD2 HEX A 999      26.630 -24.165   3.217  1.00  6.45           H  
+ANISOU  111 HMD2 HEX A 999      769   1115    565    -10     97   -175       H  
+HETATM  112 HMD3 HEX A 999      25.081 -24.485   3.010  1.00  6.48           H  
+ANISOU  112 HMD3 HEX A 999      778   1114    569    -21    105   -174       H  
+CONECT    6   39
+CONECT   16   40
+CONECT   30   80
+CONECT   38   43   65   81   82
+CONECT   39    6   44   72   83
+CONECT   40   16   45   73   84
+CONECT   41   46   74   85   86
+CONECT   42   59   75   80
+CONECT   43   38   48   87   88
+CONECT   44   39   89   90   91
+CONECT   45   40   92   93   94
+CONECT   46   41   49   95   96
+CONECT   47   60   76   80
+CONECT   48   43   63   69
+CONECT   49   46   64   70
+CONECT   50   62   78   80
+CONECT   51   59   78   97
+CONECT   52   60   75   98
+CONECT   53   61   76   99
+CONECT   54   62   77  100
+CONECT   55   71  101  102  103
+CONECT   56   66  104  105  106
+CONECT   57   67  107  108  109
+CONECT   58   68  110  111  112
+CONECT   59   42   51   65
+CONECT   60   47   52   66
+CONECT   61   53   67   79
+CONECT   62   50   54   68
+CONECT   63   48
+CONECT   64   49
+CONECT   65   38   59   71
+CONECT   66   56   60   72
+CONECT   67   57   61   73
+CONECT   68   58   62   74
+CONECT   69   48
+CONECT   70   49
+CONECT   71   55   65   75
+CONECT   72   39   66   76
+CONECT   73   40   67   77
+CONECT   74   41   68   78
+CONECT   75   42   52   71
+CONECT   76   47   53   72
+CONECT   77   54   73   79
+CONECT   78   50   51   74
+CONECT   79   61   77   80
+CONECT   80   30   42   47   50
+CONECT   80   79
+CONECT   81   38
+CONECT   82   38
+CONECT   83   39
+CONECT   84   40
+CONECT   85   41
+CONECT   86   41
+CONECT   87   43
+CONECT   88   43
+CONECT   89   44
+CONECT   90   44
+CONECT   91   44
+CONECT   92   45
+CONECT   93   45
+CONECT   94   45
+CONECT   95   46
+CONECT   96   46
+CONECT   97   51
+CONECT   98   52
+CONECT   99   53
+CONECT  100   54
+CONECT  101   55
+CONECT  102   55
+CONECT  103   55
+CONECT  104   56
+CONECT  105   56
+CONECT  106   56
+CONECT  107   57
+CONECT  108   57
+CONECT  109   57
+CONECT  110   58
+CONECT  111   58
+CONECT  112   58
+END
